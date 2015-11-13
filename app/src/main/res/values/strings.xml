@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DemoLayout</string>
+    <string name="label_usuario">Usuario</string>
+    <string name="hintUsuario">Informe seu usuário</string>
+    <string name="label_senha">Senha</string>
+    <string name="etSenha">Informe sua senha</string>
+    <string name="botao_entrar">Acessar</string>
+    <string name="label_nome">Nome</string>
+    <string name="hintNome">Informe seu nome</string>
+    <string name="tvEmail">E-mail</string>
+    <string name="etEmail">Informe seu e-mail</string>
+    <string name="tv_senha">Senha</string>
+    <string name="hintSenha">Informe a senha</string>
+    <string name="tvConfirmaSenha">Confirme a senha</string>
+    <string name="hintConfirmeSenha">Confirme a senha</string>
+    <string name="tvIdade">Idade</string>
+    <string name="tv_sexo">Sexo</string>
+
+    <string name="sexo_masculino">Masculino</string>
+    <string name="sexo_feminino">Feminino</string>
+</resources>
